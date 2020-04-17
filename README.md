@@ -1,2 +1,2 @@
 # vscodeset
-vscode用テスト環境
+test
